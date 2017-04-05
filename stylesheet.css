@@ -1,0 +1,7 @@
+body {font-family: sans-serif;}
+nav {position: fixed;}
+.navbar-brand {font-weight: bold;}
+#about-pic {height: 250px; width: 250px;margin-top: 35px;}
+#about-pic2 {height: 200px; width: 250px; float:left;}
+#floater {float:right;}
+#gallery-pic{text-align: center;}
